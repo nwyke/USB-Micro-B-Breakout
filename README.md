@@ -2,4 +2,4 @@
 
 Handy small breakoutboard for use when you need a USB connection.
 
-Available at MiniElektro.dk/.se
+Available at [MiniElektro.dk](http://minielektro.dk)/[MiniElektro.se](http://minielektro.se)
