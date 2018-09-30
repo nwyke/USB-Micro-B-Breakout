@@ -1,4 +1,4 @@
-#USB Micro-B Breakoutboard
+# USB Micro-B Breakoutboard
 
 Handy small breakoutboard for use when you need a USB connection.
 
